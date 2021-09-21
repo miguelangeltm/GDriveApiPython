@@ -1,0 +1,16 @@
+#    ******* CHANGE ACCESS LOG ************
+#    This file contains the log data everytime 
+#    GD_API detects a file as public and changes to restricted 
+#
+
+
+
+>> Public access Detected. File Name: 
+CamisaBacana.png
+Change to restricted at:
+20/09/2021 21:53:25
+
+>> Public access Detected. File Name: 
+CamisaBacana.png
+Change to restricted at:
+20/09/2021 22:19:00
